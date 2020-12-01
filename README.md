@@ -30,9 +30,9 @@ Hi，大家好，我是Roger。最近在一家公司做海外dating项目推广�
 #### 使用操作说明：[见这里~](https://github.com/yingluoyun/aff-cms/edit/main/README.md)
 
 
-#### 敬请期待！~
+#### 下期预告
 
-下期会出一个review评测主题，并使用uniapp开发安卓和苹果端，提供API接口！抢占搜索引擎流量的同时咋们也去收割一波google play和apple store的流量
+下期会出一个review评测主题，并使用uniapp开发安卓和苹果端，提供API接口！抢占搜索引擎流量的同时咋们也去收割一波google play和apple store的流量，敬请期待！~
 
 
 
