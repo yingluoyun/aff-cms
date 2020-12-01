@@ -45,6 +45,6 @@ AFF-CMS的定位：
 
 下期会出一个review评测主题，并使用uniapp开发安卓和苹果端，提供API接口！带大家去收割一波google play和apple store的流量
 
-敬请期待！~            QQ交流群：90041880
+敬请期待！~             QQ交流群：90041880
 
 
