@@ -22,11 +22,21 @@ AFF-CMS后端使用重量级的PHP框架Laravel开发，前端框架Layui、Boot
 
 ### 下期预告
 
-下期会出一个review评测主题+文章评论+采集功能+统计功能，并使用uniapp开发安卓和苹果端app，提供API接口！抢占搜索引擎流量的同时咋们也去收割一波google play和apple store的流量，敬请期待！~
+下期会出一个review评测主题+文章评论+评分+采集功能+统计功能，并使用uniapp开发安卓和苹果端app，提供API接口！抢占搜索引擎流量的同时咋们也去收割一波google play和apple store的流量，敬请期待！~
 
 # AFF-CMS 后台展示
 
+![image-20201211204348851](https://raw.githubusercontent.com/yingluoyun/aff-cms/main/readmeImg/image-20201211204348851.png)
+
+### ->登录后台
+
+![image-20201211204658146](https://raw.githubusercontent.com/yingluoyun/aff-cms/main/readmeImg/image-20201211204658146.png)
+
+### ->新建站点
+
 ![image-20201205113604151](https://raw.githubusercontent.com/yingluoyun/aff-cms/main/readmeImg/image-20201205113604151.png)
+
+
 
 ### ->选择模板创建
 
@@ -85,6 +95,7 @@ AFF-CMS后端使用重量级的PHP框架Laravel开发，前端框架Layui、Boot
 ![image-20201205115603333](https://raw.githubusercontent.com/yingluoyun/aff-cms/main/readmeImg/image-20201205115603333.png)
 
 ->更多功能等您来体验！项目开源地址：https://github.com/yingluoyun/aff-cms
+->安装说明：https://github.com/yingluoyun/aff-cms/blob/main/%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md
 ->QQ交流群：90041880
 
 # 后记
