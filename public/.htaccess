@@ -1,0 +1,13 @@
+
+# Redirect non-www to www   
+RewriteCond %{HTTP_HOST} !^www\.(.*)   
+RewriteRule (.*) https://www.%{HTTP_HOST}/$1 [R=301,L]  
+
+<IfModule mod_rewrite.c>
+Options -MultiViews
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L]
+</IfModule>
