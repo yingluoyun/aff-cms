@@ -95,6 +95,7 @@ AFF-CMS后端使用重量级的PHP框架Laravel开发，前端框架Layui、Boot
 ![image-20201205115603333](https://raw.githubusercontent.com/yingluoyun/aff-cms/main/readmeImg/image-20201205115603333.png)
 
 ->更多功能等您来体验！项目开源地址：https://github.com/yingluoyun/aff-cms
+
 ->安装说明：https://github.com/yingluoyun/aff-cms/blob/main/%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md
 
 ->QQ交流群：90041880
