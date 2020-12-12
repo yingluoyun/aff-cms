@@ -1,3 +1,4 @@
+
 .collapse ul li {
   margin-left: 7px;
 }
@@ -81,6 +82,9 @@ body {
   .blog-img a img {
     width: 100%;
     height: 100%;
+  }
+  .programacontent img{
+    width: 100%;
   }
 
   .blog-content {
